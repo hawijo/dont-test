@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #121212;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.game-wrapper {
+    width: 640px;
+    height: 480px;
+    max-width: 100%;
+    margin: 0 auto;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: black;
+}
